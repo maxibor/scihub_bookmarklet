@@ -1,5 +1,5 @@
 (function () {
-   let domain = 'se';
+   let domain = 'ru';
    let links = document.getElementsByTagName('a');
    let scihub = 'http://sci-hub.' + domain + '/';
    for (var i = 0, l = links.length; i < l; i++) {
